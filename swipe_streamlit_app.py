@@ -13,6 +13,7 @@ flashcards = [
     {"word": "Veracious", "definition": "Truthful and honest in character"},
     {"word": "Vituperative", "definition": "Habitually attacking ppl with bitter and harsh words"},
     {"word": "Mercurial", "definition": "Habitually having sudden changes of mood; ~capricious"},
+    {"word": "Termerity", "definition": "reckless audacity"},
     {"word": "Phlegmatic", "definition": "Emotionless, calm, stoic"}
 ]
 
