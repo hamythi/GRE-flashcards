@@ -12,7 +12,8 @@ flashcards = [
     {"word": "Desultory", "definition": "Lacking a plan or purpose, occuring randomly in a disoriented way"},
     {"word": "Veracious", "definition": "Truthful and honest in character"},
     {"word": "Vituperative", "definition": "Habitually attacking ppl with bitter and harsh words"},
-    {"word": "Mercurial", "definition": "Habitually having sudden changes of mood; ~capricious"}
+    {"word": "Mercurial", "definition": "Habitually having sudden changes of mood; ~capricious"},
+    {"word": "Phlegmatic", "definition": "Emotionless, calm, stoic"}
 ]
 
 st.title("GRE Flashcards 🗂️")
