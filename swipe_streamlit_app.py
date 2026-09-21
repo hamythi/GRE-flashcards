@@ -8,7 +8,11 @@ if "card_index" not in st.session_state:
 flashcards = [
     {"word": "Ephemeral", "definition": "Lasting for a very short time."},
     {"word": "Capricious", "definition": "Given to sudden and unaccountable changes of mood or behavior."},
-    {"word": "Mitigate", "definition": "Make less severe, serious, or painful."}
+    {"word": "Mitigate", "definition": "Make less severe, serious, or painful."},
+    {"word": "Desultory", "definition": "Lacking a plan or purpose, occuring randomly in a disoriented way"},
+    {"word": "Veracious", "definition": "Truthful and honest in character"},
+    {"word": "Vituperative", "definition": "Habitually attacking ppl with bitter and harsh words"},
+    {"word": "Mercurial", "definition": "Habitually having sudden changes of mood; ~capricious"}
 ]
 
 st.title("GRE Flashcards 🗂️")
