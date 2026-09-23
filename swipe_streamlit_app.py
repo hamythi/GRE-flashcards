@@ -9,6 +9,7 @@ flashcards = [
     {"word": "Ephemeral", "definition": "Lasting for a very short time."},
     {"word": "Capricious", "definition": "Given to sudden and unaccountable changes of mood or behavior."},
     {"word": "Mitigate", "definition": "Make less severe, serious, or painful."},
+    {"word": "Intransigent", "definition": "Stubbornly adamant about not changing one's mind"},
     {"word": "Desultory", "definition": "Lacking a plan or purpose, occuring randomly in a disoriented way"},
     {"word": "Veracious", "definition": "Truthful and honest in character"},
     {"word": "Vituperative", "definition": "Habitually attacking ppl with bitter and harsh words"},
