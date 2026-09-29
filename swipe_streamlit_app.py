@@ -15,6 +15,9 @@ flashcards = [
     {"word": "Vituperative", "definition": "Habitually attacking ppl with bitter and harsh words"},
     {"word": "Mercurial", "definition": "Habitually having sudden changes of mood; ~capricious"},
     {"word": "Temerity", "definition": "reckless audacity"},
+    {"word": "Fastidious", "definition": "fussy and tedious about everything"},
+    {"word": "Sycophant", "definition": "sicko-fan, ppl obsequious to their bosses"},
+    {"word": "Surreptitiously", "definition": "secretly doing a wrong thing"},
     {"word": "Phlegmatic", "definition": "Emotionless, calm, stoic"}
 ]
 
