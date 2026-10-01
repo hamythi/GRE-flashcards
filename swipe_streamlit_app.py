@@ -18,6 +18,7 @@ flashcards = [
     {"word": "Fastidious", "definition": "fussy and tedious about everything"},
     {"word": "Sycophant", "definition": "sicko-fan, ppl obsequious to their bosses"},
     {"word": "Surreptitiously", "definition": "secretly doing a wrong thing"},
+    {"word": "Bodacious", "definition": "remarkable, bold"},
     {"word": "Phlegmatic", "definition": "Emotionless, calm, stoic"}
 ]
 
